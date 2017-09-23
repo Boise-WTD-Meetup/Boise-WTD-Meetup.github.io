@@ -7,7 +7,7 @@ Information about upcoming meetups and conferences are [posted on the calendar](
 To learn more about Write the Docs, please visit [www.writethedocs.org](http://www.writethedocs.org/) to learn more about the organization and the amazing people who devote an enormous amount of their personal time and energy into this community.
 
 ## About
-* This Meetup group follows the Write the Docs code of conduct (www.writethedocs.org/code-of-conduct). All members and participants are expected to understand and follow this simple policy.
+* This Meetup group follows the [Write the Docs code of conduct](www.writethedocs.org/code-of-conduct). All members and participants are expected to understand and follow this simple policy.
 * This Meetup group is not a forum to market or sell products and services.
 * The purpose of the group is to develop a community that collaborates on projects and shares ideas about technical writing, software development, and open source.
 * Participate in the Meetup group: network with your peers, contribute to open discussions during meetings, help others, ask questions, answer questions, present a topic.
