@@ -10,4 +10,4 @@ Bring your laptop if you would like to do some labs/mentoring after the main
 meeting.
 
 * Slides: [Getting started with Markdown & GitHub](/markdown-on-github/)
-* Source: https://github.com/Boise-WTD-Meetup/markdown-on-github
+* Source: [github.com/Boise-WTD-Meetup/markdown-on-github](https://github.com/Boise-WTD-Meetup/markdown-on-github)
