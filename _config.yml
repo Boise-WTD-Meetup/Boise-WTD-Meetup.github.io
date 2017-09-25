@@ -1,3 +1,21 @@
-theme: jekyll-theme-leap-day
 title: Write the Docs Boise
-show_downloads: false
+author: ""
+description: >
+  Write The Docs Boise is a meetup for Treasure Valley technical writers,
+  software developers, content strategists, and editors.
+
+header_pages:
+  - about.md
+
+# Allow future dated posts
+future: true
+
+theme: minima
+plugins:
+  - jemoji
+  - jekyll-mentions
+exclude:
+  - Gemfile
+  - vendor
+minima:
+  date_format: "%F"
